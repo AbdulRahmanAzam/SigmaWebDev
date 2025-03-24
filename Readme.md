@@ -1,8 +1,10 @@
 ### when using express, do the following things
-npm init -y
 
+```
 npm i install --global nodemon
-
+npm init -y
+nodemon main.js
+```
 npm install express@4
 
 
